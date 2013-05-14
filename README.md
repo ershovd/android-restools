@@ -1,4 +1,4 @@
 android-restools
 ================
 
-Simple Pythion tools for working with Android resources
+Home project for Python tools working with Android resources
